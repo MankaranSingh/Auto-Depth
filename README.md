@@ -2,7 +2,7 @@
 
 This repository works upon training a neural network for estimating depth from monocular images that can later be used for 3D reconstruction of the scene.
 
-The companion blog post can be found [here]().
+The companion blog post can be found [here](https://medium.com/@mankaran32/making-a-pseudo-lidar-with-cameras-and-deep-learning-e8f03f939c5f).
 
 ![Results](https://i.ibb.co/Ws3CFMf/image.png)
 
