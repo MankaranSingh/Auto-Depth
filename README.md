@@ -2,7 +2,7 @@
 
 This repository works upon training a neural network for estimating depth from monocular images that can later be used for 3D reconstruction of the scene.
 
-The companion blog post can be found [here]().
+The companion blog post can be found [here](https://medium.com/@mankaran32/making-a-pseudo-lidar-with-cameras-and-deep-learning-e8f03f939c5f).
 
 ![Results](https://i.ibb.co/Ws3CFMf/image.png)
 
@@ -20,8 +20,11 @@ The dataset contains RGB images and their corresponding depth maps encoded in CA
 - Install the dependencies used in the project.
 - Run `python train.py` to start training.
 
-## Results
-![3D-Result](https://im6.ezgif.com/tmp/ezgif-6-e6f15d87fd2e.gif)
+## Results on unseen data
+
+![3D-Result](https://i.ibb.co/kKDVkKK/image.png)
+
+Full video can be found [here](https://i.ibb.co/ZVFDym5/ezgif-6-9a8ed53179c8.gif)
 
 ## Pretrained Models
 The network was collaboratively trained by [Raghav Prabhakar](https://github.com/Raghav1503), [Chirag Goel](https://github.com/chiragoel), [Mandeep](https://github.com/M-I-Dx) and me on google colab for 20 Hrs. 
