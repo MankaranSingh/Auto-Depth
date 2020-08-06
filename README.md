@@ -34,7 +34,7 @@ Pretrained model (With DepthNorm Training) can be found [here](https://drive.goo
 ## TODO
 
 - [x] Add model training scripts.
-- [ ] Add data collection scripts for CARLA.
+- [x] Add data collection scripts for CARLA.
 - [ ] Add easy hyperparameter tuning through a seperate hyperparameter file that can easily be edited.
 - [ ] Add 3D reconstruction Code.
 - [ ] Add model evaluation code.
