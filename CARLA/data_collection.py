@@ -1,5 +1,3 @@
-"""Spawn NPCs into the simulation"""
-
 import glob
 import os
 import sys
