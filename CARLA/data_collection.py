@@ -123,7 +123,6 @@ def main():
         depth_rotation = carla.Rotation(180,180,180)
         depth_transform = carla.Transform(depth_location,depth_rotation)
         depth_cam = world.spawn_actor(depth_bp,depth_transform,attach_to=ego_vehicle)
-        # This time, a color converter is applied to the image, to get the semantic segmentation view
         depth_cam.listen(lambda image: image.save_to_disk('tutorial/new_depth_output/%.6d.jpg' % image.frame_number))
         
         spectator = world.get_spectator()
