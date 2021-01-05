@@ -26,6 +26,8 @@ The dataset contains RGB images and their corresponding depth maps encoded in CA
 
 Full video can be found [here](https://i.ibb.co/ZVFDym5/ezgif-6-9a8ed53179c8.gif)
 
+How to create/ visualize this inverse projection image/ video [[See here](inverse_projection/README.md)]
+
 ## Pretrained Models
 The network was collaboratively trained by [Raghav Prabhakar](https://github.com/Raghav1503), [Chirag Goel](https://github.com/chiragoel), [Mandeep](https://github.com/M-I-Dx) and me on google colab for 20 Hrs. 
  
