@@ -6,4 +6,4 @@ scikit_image==0.17.2
 numpy==1.17.0
 Pillow==7.2.0
 skimage==0.0
-tensorflow==2.2.0
+tensorflow==2.5.1
