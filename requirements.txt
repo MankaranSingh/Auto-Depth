@@ -1,6 +1,6 @@
 pandas==0.24.1
 tensorflow_gpu==1.15.2
-opencv_python==4.1.0.25
+opencv_python==4.2.0.32
 Keras==2.2.4
 scikit_image==0.17.2
 numpy==1.17.0
